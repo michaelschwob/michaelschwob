@@ -14,15 +14,15 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=SDS383D-Schwob&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=SDS383D-Schwob&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=PrimePalindromes&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=PrimePalindromes&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=CollatzConjecture&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=CollatzConjecture&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
 <!--

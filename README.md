@@ -27,7 +27,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Google Scholar]Google Scholar][0], [![Twitter]Twitter][1], or on [![LinkedIn]LinkedIn][3].
+You can find me on [Google Scholar][0], [Twitter][1], and [LinkedIn][2].
 
 <!-- Icons -->
 

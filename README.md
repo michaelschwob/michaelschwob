@@ -10,7 +10,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelschwob&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
 </a>
 
 <!--

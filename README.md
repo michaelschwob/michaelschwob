@@ -27,15 +27,17 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Google Scholar]Google Scholar][0], [![Twitter]Twitter][1], or on [![LinkedIn]LinkedIn][3].
 
 <!-- Icons -->
 
+[0.2]: https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
+[0]: https://scholar.google.com/citations?user=pIw1XUEAAAAJ
 [1]: https://twitter.com/mrschwob
 [2]: https://www.linkedin.com/in/michael-schwob-b945ab101
 

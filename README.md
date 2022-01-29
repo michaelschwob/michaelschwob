@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
@@ -9,10 +10,20 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=SDS383D-Schwob&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+</a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=PrimePalindromes&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelschwob&repo=CollatzConjecture&show_owner=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
+</a>
 
 <!--
 **michaelschwob/michaelschwob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

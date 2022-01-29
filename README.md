@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=440" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
 

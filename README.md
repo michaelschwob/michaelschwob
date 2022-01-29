@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelschwob&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
 </a>
@@ -8,9 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=450" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
-</a>
+
 
 <!--
 **michaelschwob/michaelschwob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

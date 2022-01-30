@@ -19,6 +19,7 @@
 
 <figure><embed src="https://wakatime.com/share/@michaelschwob/c8b2c517-b7bb-4c7f-a365-8038fe2e614a.svg"></embed></figure>
 
+![](https://komarev.com/ghpvc/?username=michaelschwob&style=flat-square&color=2b5876&label=Views)
 
 
 <!---

@@ -13,6 +13,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
+<figure><embed src="https://wakatime.com/share/@michaelschwob/a4742cce-61e3-434e-a36f-66a2be306a8e.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@michaelschwob/7895879a-473f-4ac7-a7ec-352b1d063844.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@michaelschwob/c8b2c517-b7bb-4c7f-a365-8038fe2e614a.svg"></embed></figure>
+
+
+
 <!---
 
 <a href="https://github.com/anuraghazra/convoychat">

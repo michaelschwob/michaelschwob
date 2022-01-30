@@ -1,5 +1,8 @@
 ### Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Michael, and I am currently pursuing a PhD in Statistics at the University of Texas at Austin under the advisement of Mevin Hooten.
+
+## GitHub Stats <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px">
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
@@ -38,6 +41,8 @@
 --->
 
 <!-- Actual text -->
+
+## Contact <img src="https://c.tenor.com/KOFzWDrFlboAAAAi/love-dance.gif" width="30px">
 
 You can find me on [Google Scholar][0], [Twitter][1], and [LinkedIn][2].
 

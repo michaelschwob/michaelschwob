@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+## Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:5;height:5;">
 
 Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sciences at the University of Texas at Austin. My research focuses on agent-based models, spatiotemporal statistics, infectious disease dynamics, quantitative ecology, and biostatistics. I'm currently being funded by the NSF Graduate Research Fellowship Program.
 

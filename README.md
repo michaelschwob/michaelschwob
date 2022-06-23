@@ -2,7 +2,7 @@
 
 Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sciences at the University of Texas at Austin. My research focuses on agent-based models, spatiotemporal statistics, infectious disease dynamics, quantitative ecology, and biostatistics. I'm currently being funded by the NSF Graduate Research Fellowship Program.
 
-## GitHub Stats <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px">
+## GitHub Stats <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="5px">
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />

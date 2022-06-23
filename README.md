@@ -1,8 +1,8 @@
-## Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:5;height:5;">
+## Welcome to my GitHub Profile <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:5;height:5;"> -->
 
 Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sciences at the University of Texas at Austin. My research focuses on agent-based models, spatiotemporal statistics, infectious disease dynamics, quantitative ecology, and biostatistics. I'm currently being funded by the NSF Graduate Research Fellowship Program.
 
-## GitHub Stats <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="5px">
+## GitHub Stats <!-- <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="5px"> -->
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
@@ -43,7 +43,7 @@ Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sci
 
 <!-- Actual text -->
 
-## Contact <img src="https://c.tenor.com/KOFzWDrFlboAAAAi/love-dance.gif" width="30px">
+## Contact <!-- <img src="https://c.tenor.com/KOFzWDrFlboAAAAi/love-dance.gif" width="30px"> -->
 
 You can find me on [Google Scholar][0], [Twitter][1], and [LinkedIn][2].
 

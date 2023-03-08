@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:5;height:5;"> -->
 
-Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sciences at the University of Texas at Austin. My research focuses on developing statistical methodology to explore population dynamics through space and time. Topics of interest are agent-based models, spatiotemporal statistics, infectious disease dynamics, quantitative ecology, and biostatistics. I'm currently being funded by the NSF Graduate Research Fellowship Program.
+Hi! I'm Michael, a doctoral student in the Department of Statistics and Data Sciences at the University of Texas at Austin advised by Mevin Hooten. My research focuses on developing statistical methodology to explore population dynamics through space and time. Topics of interest are agent-based models, spatiotemporal statistics, infectious disease dynamics, quantitative ecology, and biostatistics. I'm currently being funded by the NSF Graduate Research Fellowship Program.
 
 ## GitHub Stats <!-- <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="5px"> -->
 

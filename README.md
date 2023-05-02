@@ -12,10 +12,6 @@ Hi! I'm Michael, a doctoral student advised by Mevin Hooten in the Department of
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelschwob&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
-</a>
-
 
 <figure><embed src="https://wakatime.com/share/@michaelschwob/a4742cce-61e3-434e-a36f-66a2be306a8e.svg"></embed></figure>
 

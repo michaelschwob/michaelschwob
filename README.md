@@ -4,9 +4,11 @@ Hi! I'm Michael, a doctoral student advised by Mevin Hooten in the Department of
 
 ## GitHub Stats <!-- <img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="5px"> -->
 
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelschwob&count_private=true&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3" />
 </a>
+-->
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelschwob&&layout=compact&bg_color=DEG,2b5876,4e4376&title_color=FFFFFF&text_color=D3D3D3&card_width=445" />
